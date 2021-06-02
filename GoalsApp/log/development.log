@@ -85,3 +85,5 @@ Migrating to CreateUsers (20210602161416)
   ↳ bin/rails:9
   [1m[35m (3.6ms)[0m  [1m[35mCOMMIT[0m
   ↳ bin/rails:9
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/aahmed/.rbenv/versions/2.5.1/bin/annotate:23
